@@ -1,42 +1,98 @@
-### Hi there 👋
 
-> My name is `Mohamed dawood`
-> 
-> I'm have agood experience in  `Dart` `.Net` `Javascript , Html and css`
-> 
-> Currently i'm developing:
--  Mobile apps using:  `Flutter` 
--  Web api and backend:  `Asp.net core`
-> I also have an experience in other frameworks like `React native` `AngularJs` `Jquery` `Xamarin` but it was a long time since i used one of them
+![image](https://user-images.githubusercontent.com/31937782/147126641-a3e210ba-d7eb-4d6c-8904-adddb8c60c9c.png)
 
-> 💬 Ask me about : `Flutter` `Dart` `C#` `.Net`
-
-> How to reach me: [Facebook](https://www.facebook.com/mo.ah.dawood/), [Email](mailto:mo.ah.dawood@gmail.com)
-
-
-## My Public packages
-
-[![My fatoorah](https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=my_fatoorah)](https://github.com/mo-ah-dawood/my_fatoorah)
-  + [![pub package](https://img.shields.io/pub/v/my_fatoorah.svg)](https://pub.dev/packages/my_fatoorah)
-
-[![Fcm config](https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=fcm_config)](https://github.com/mo-ah-dawood/fcm_config)
-  + [![pub package](https://img.shields.io/pub/v/fcm_config.svg)](https://pub.dev/packages/fcm_config)
-
-[![Simple](https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=simple)](https://github.com/mo-ah-dawood/simple)
-  + [![pub package](https://img.shields.io/pub/v/simple.svg)](https://pub.dev/packages/simple)
-
-[![Open location picker](https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=open_location_picker)](https://github.com/mo-ah-dawood/open_location_picker)
-  + [![pub package](https://img.shields.io/pub/v/open_location_picker.svg)](https://pub.dev/packages/open_location_picker)
-
-[![Ansi logger](https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=ansi_logger)](https://github.com/mo-ah-dawood/ansi_logger)
-  + [![pub package](https://img.shields.io/pub/v/ansi_logger.svg)](https://pub.dev/packages/ansi_logger)
-
-
-## My states
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-ah-dawood&show_icons=true)](https://github.com/mo-ah-dawood/github-readme-stats)
+<hr/>
+<table>
+    <caption>
+        <h1>Contact</h1>
+        <a href="https://twitter.com/Mohamed10065125">
+            <img src="https://user-images.githubusercontent.com/31937782/147111920-1bb41d68-a2a2-4a25-930d-6cebef78bcb9.png" />
+        </a>
+        <a href="https://www.linkedin.com/in/mo-ah-dawood/">
+            <img src="https://user-images.githubusercontent.com/31937782/147112285-42277619-d05e-4038-b6c9-3bb8d6034162.png" />
+        </a>
+        <a href="https://www.facebook.com/mo.ah.dawood/">
+            <img src="https://user-images.githubusercontent.com/31937782/147112152-0e3ef55b-1c24-4631-96bf-88bd3c617c0b.png" />
+        </a>
+        <a href="mailto:mo.ah.dawood@gmail.com">
+            <img src="https://user-images.githubusercontent.com/31937782/147113723-e5cdab81-56c7-4f56-a4e9-c8d43cc9b136.png" />
+        </a>
+      <h1>States</h1>
+    </caption>
+    <tr>
+        <td style=>
+            <a href="https://github.com/mo-ah-dawood/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=mo-ah-dawood&show_icons=true" height="200px" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/mo-ah-dawood/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ah-dawood&layout=compact" height="200px" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ah-dawood&layout=compact)](https://github.com/mo-ah-dawood/github-readme-stats)
+<h1>My Top Public packages</h1>
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/mo-ah-dawood/my_fatoorah">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=my_fatoorah"/>
+            </a>
+            <br/>
+            <a href="https://pub.dev/packages/my_fatoorah">
+                <img src="https://img.shields.io/pub/v/my_fatoorah.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/mo-ah-dawood/fcm_config">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=fcm_config"/>
+            </a>
+            <br/>
+            <a href="https://pub.dev/packages/fcm_config">
+                <img src="https://img.shields.io/pub/v/fcm_config.svg"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/mo-ah-dawood/simple">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=simple"/>
+            </a>
+            <br/>
+            <a href="https://pub.dev/packages/simple">
+                <img src="https://img.shields.io/pub/v/simple.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/mo-ah-dawood/open_location_picker">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=open_location_picker"/>
+            </a>
+            <br/>
+            <a href="https://pub.dev/packages/open_location_picker">
+                <img src="https://img.shields.io/pub/v/open_location_picker.svg"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/mo-ah-dawood/ansi_logger">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=mo-ah-dawood&repo=ansi_logger"/>
+            </a>
+            <br/>
+            <a href="https://pub.dev/packages/ansi_logger">
+                <img src="https://img.shields.io/pub/v/ansi_logger.svg"/>
+            </a>
+        </td>
+        <td>
+          
+        </td>
+    </tr>
+</table>
+
 
 
 
