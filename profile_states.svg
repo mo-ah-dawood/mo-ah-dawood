@@ -1,0 +1,42 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                table {
+                    border: 0px !important;
+                    width: 100%;
+                }
+            </style>
+            <table>
+                <caption>
+                    <h1>Contact</h1>
+                    <a href="https://twitter.com/Mohamed10065125">
+                        <img src="https://user-images.githubusercontent.com/31937782/147111920-1bb41d68-a2a2-4a25-930d-6cebef78bcb9.png" />
+                    </a>
+                    <a href="https://www.linkedin.com/in/mo-ah-dawood/">
+                        <img src="https://user-images.githubusercontent.com/31937782/147112285-42277619-d05e-4038-b6c9-3bb8d6034162.png" />
+                    </a>
+                    <a href="https://www.facebook.com/mo.ah.dawood/">
+                        <img src="https://user-images.githubusercontent.com/31937782/147112152-0e3ef55b-1c24-4631-96bf-88bd3c617c0b.png" />
+                    </a>
+                    <a href="mailto:mo.ah.dawood@gmail.com">
+                        <img src="https://user-images.githubusercontent.com/31937782/147113723-e5cdab81-56c7-4f56-a4e9-c8d43cc9b136.png" />
+                    </a>
+                    <h1>States</h1>
+                </caption>
+                <tr>
+                    <td style>
+                        <a href="https://github.com/mo-ah-dawood/github-readme-stats">
+                            <img src="https://github-readme-stats.vercel.app/api?username=mo-ah-dawood&show_icons=true" height="200px" />
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/mo-ah-dawood/github-readme-stats">
+                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-ah-dawood&layout=compact" height="200px" />
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </foreignObject>
+</svg>
